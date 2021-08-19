@@ -56,4 +56,4 @@ mix.setPublicPath('dist');
 Если вы сделали все правильно, то у вас должны отображаться ваши изменения
 
 
-Этот проект на Github [[https://github.com/Chifek/laravel-mix]]
+Этот проект на Github [https://github.com/Chifek/laravel-mix]()
