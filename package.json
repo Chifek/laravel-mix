@@ -1,0 +1,23 @@
+{
+  "name": "lara-mix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ruslan Ismailov",
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-mix": "^6.0.28",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.38.0",
+    "sass-loader": "^12.1.0",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
